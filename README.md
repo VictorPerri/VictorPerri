@@ -18,4 +18,4 @@
     <img alt="BRAVE" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
 </div>
 
-### Apaixonado por tecnologia ❤
+### Apaixonado por tecnologia 👨‍💻🤍
