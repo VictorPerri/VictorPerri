@@ -1,7 +1,7 @@
+![Header](https://github.com/user-attachments/assets/ec6759d0-31d4-4b34-9fc4-9409bbc3ff08)
 
 ## Olá! sou o Victor Perri 👋
 
-<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorperri14@gmail.com)
 
